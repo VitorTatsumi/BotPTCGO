@@ -1,0 +1,30 @@
+Bem vindo ao manual de instruções do Trade Bot by Vitor Tatsumi!
+
+O intruito do Bot é automatizar as funções de trocas, garantindo mais rapidez e praticidade nas negociações de mercado dentro do game.
+
+□ TECLAS DE 1 À 9: Cria uma troca com Boosters igual a numeração da tecla pressionada;
+□ TECLA 0: Cria uma troca com 10 Boosters;
+□ TECLAS CTRL + 1 À CTRL + 9: Cria uma troca com 11 à 19 Boosters respectivamente;
+□ TECLAS CTRL + 0: Cria uma troca com 20 Boosters;
+□ TECLA ESC: Sair da Aplicação;
+□ BOTÃO DIREITO DO MOUSE: Automatiza a finalização da troca. (Clica automaticamente em: Finalizar > 8 horas > Pós-troca > Ok).
+ 
+O BOT conta com dois modos: Oferecendo e Recebendo.
+
+□ MODO OFERECENDO: Neste modo, o usuário criará trocas automáticas OFERECENDO a quantidade de boosters desejada, e pedindo em troca a opção marcada no menu.
+
+□ MODO PEDINDO: Neste modo, o usuário criará trocas automáticas PEDINDO a quantidade de boosters desejada, e oferecendo em troca a opção marcada no menu.
+
+Clique em "Selecionar" ao final da seleção para ativar as opções. Os dados e estatísticas aparecerão nos menus.
+
+Observações e especificações:
+
+□ Este BOT deve ser aplicado com a tela do POKEMON TRADING CARD GAME ONLINE na resolução 1600x1200, caso contrário podem ocorrer erros;
+□ O BOT deve ser iniciado na tela principal de trocas do jogo.
+
+Dicas para melhor desempenho do BOT:
+
+□ Utilizar o BOT em uma conta somente para farm;
+□ Deixar somente Boosters da coleção mais atual na conta que será utilizada;
+□ Marcar os Boosters da conta a ser utilizada como trocáveis;
+□ Caso a aplicação apresente erros durante o funcionamento, feche e abra novamente;
